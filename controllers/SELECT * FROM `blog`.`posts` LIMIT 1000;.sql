@@ -1,0 +1,1 @@
+SELECT * FROM `blog`.`posts` LIMIT 1000;
